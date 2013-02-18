@@ -4,7 +4,7 @@ require "blockuijs-rails/version"
 
 Gem::Specification.new do |s|
   s.name        = "blockuijs-rails"
-  s.version     = Spinjs::Rails::VERSION
+  s.version     = BlockUIJs::Rails::VERSION
   s.license     = "MIT"
   s.authors     = ["Remus Rusanu"]
   s.email       = ["contact@rusanu.com"]

@@ -13,7 +13,7 @@ USE
 
 Add to application.js:
 
-    //= require jquery.blockUI$
+    //= require jquery.blockUI
 
 Lear More
 =========
